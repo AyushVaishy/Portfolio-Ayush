@@ -59,7 +59,7 @@
 }
 
 .home__img {
-    background: url("https://66cca419979bd72d5e59f6b1--astounding-horse-2ae02c.netlify.app/assets/my%20pic-DyZeVORV.jpg");
+    background: url("../../src/assets/my pic.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
