@@ -7,20 +7,12 @@ import Work6 from "../../src/assets/Work5.png";
 
 export const projectsData = [
     {
-      id: 1,
-      image: Work1,
-      title: "Netflix-landing Page",
-      category: "app",
-      githublink:"https://github.com/AyushVaishy/Netflix-Clone-Homepage",
-      livelink: "https://jojo-landing-page-by-ayush.netlify.app/",
-    },
-    {
       id: 2,
       image: Work2,
       title: "Portfolio Using Typescript",
       category: "web",
       githublink:"https://github.com/AyushVaishy/My-Portfolio",
-      livelink: "https://ayush-vaishy-portfolio.netlify.app/",
+      livelink: "https://my-portfolio-typescript.netlify.app/",
     },
     {
       id: 3,
@@ -45,6 +37,14 @@ export const projectsData = [
       category: "web",
       githublink:"https://github.com/AyushVaishy/My_Portfolio",
       livelink: "https://ayush-vaishy-portfolio.netlify.app/",
+    },
+     {
+      id: 1,
+      image: Work1,
+      title: "Netflix-landing Page",
+      category: "app",
+      githublink:"https://github.com/AyushVaishy/Netflix-Clone-Homepage",
+      livelink: "https://jojo-landing-page-by-ayush.netlify.app/",
     },
     {
         id: 6,
